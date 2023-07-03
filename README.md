@@ -1,4 +1,4 @@
-shi# Hi, I'm João Pedro
+Hi, I'm João Pedro
 
 <div align="center">
   <a href="https://github.com/jternesconte">
