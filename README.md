@@ -1,4 +1,10 @@
-Hi, I'm João Pedro
+# Hi, I'm João Pedro
+
+- 💻 Front-end Developer
+- ‍🎓 Self-taught Student
+- 🌎 Brazilian
+
+Front-end developer with emphasis on web and mobile applications. I currently study Information Systems at UNISUL University. My interest in technology began at a young age, always testing new things and learning a lot, which ended up leading to the choice to follow my passion for codes.
 
 <div align="center">
   <a href="https://github.com/jternesconte">
