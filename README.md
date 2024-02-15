@@ -16,14 +16,14 @@ Front-end developer with emphasis on web and mobile applications. I currently st
 
 #
 
-## 💻 Social
+### 💻 Social
 
   <a href="https://www.instagram.com/jternesconte/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-ternes-conte/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 #
 
-## 🧠 Learned Technologies
+### 🧠 Learned Technologies
 
   <div style="display: inline_block">
     <img align="center" alt="jp-flutter"src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
@@ -39,7 +39,7 @@ Front-end developer with emphasis on web and mobile applications. I currently st
 
 #
 
-## 📚 Still Studying
+### 📚 Still Studying
   <div style="display: inline_block">
   </div>
 
