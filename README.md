@@ -6,6 +6,8 @@
 
 Front-end developer with emphasis on web and mobile applications. I currently study Information Systems at UNISUL University. My interest in technology began at a young age, always testing new things and learning a lot, which ended up leading to the choice to follow my passion for codes.
 
+#
+
 <div align="center">
   <a href="https://github.com/jternesconte">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jternesconte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
