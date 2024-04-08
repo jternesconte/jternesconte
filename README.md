@@ -18,8 +18,8 @@ Front-end developer with emphasis on web and mobile applications. I currently st
 
 ### 💻 Social
 
-  <a href="https://www.instagram.com/jternesconte/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-ternes-conte/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+[![My Skills](https://skillicons.dev/icons?i=instagrta)](https://www.instagram.com/jternesconte/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jo%C3%A3o-pedro-ternes-conte/)
 
 #
 
