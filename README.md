@@ -18,7 +18,7 @@ Front-end developer with emphasis on web and mobile applications. I currently st
 
 ### 💻 Social
 
-[![My Skills](https://skillicons.dev/icons?i=instagrta)](https://www.instagram.com/jternesconte/)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jternesconte/)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jo%C3%A3o-pedro-ternes-conte/)
 
 #
