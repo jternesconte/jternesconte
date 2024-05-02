@@ -25,12 +25,12 @@ Back-end developer student. I currently study Information Systems at UNISUL Univ
 
 ### 🧠 Learned Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,postgres,react,js,html,css,flutter,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,react,js,postgres,flutter,html,css,git)](https://skillicons.dev)
     
 
 #
 
 ### 📚 Still Studying
-[![My Skills](https://skillicons.dev/icons?i=spring,docker,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,nodejs)](https://skillicons.dev)
 
 #
