@@ -4,7 +4,7 @@
 - ‍🎓 Degree in progress in Information Systems
 - 🌎 Brazilian
 
-Back-end developer student. I currently study Information Systems at UNISUL University. My interest in technology began at a young age, always testing new things and learning a lot, which ended up leading to the choice to follow my passion for codes.
+Full Stack developer student. I currently study Information Systems at UNISUL University. My interest in technology began at a young age, always testing new things and learning a lot, which ended up leading to the choice to follow my passion for codes.
 
 #
 
