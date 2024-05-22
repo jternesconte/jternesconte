@@ -31,6 +31,6 @@ Full Stack developer student. I currently study Information Systems at UNISUL Un
 #
 
 ### 📚 Still Studying
-[![My Skills](https://skillicons.dev/icons?i=java,spring,ts,angular,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,ts,angular,node)](https://skillicons.dev)
 
 #
