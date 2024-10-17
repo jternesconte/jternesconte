@@ -25,12 +25,12 @@ Full Stack developer. I currently study Information Systems at UNISUL University
 
 ### 🧠 Learned Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=ts,angular,postgres,react,js,html,css,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,ts,postgres,git,react,js,html,css)](https://skillicons.dev)
     
 
 #
 
 ### 📚 Still Studying
-[![My Skills](https://skillicons.dev/icons?i=java,spring,flutter,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 #
