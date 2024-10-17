@@ -1,6 +1,6 @@
 # Hi, I'm João Pedro
 
-- 💻 Full-Stack Developer
+- 💻 Full-Stack Developer (Java/Angular)
 - ‍🎓 Degree in progress in Information Systems
 - 🌎 Brazilian
 
