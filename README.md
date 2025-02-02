@@ -1,7 +1,7 @@
 # Hi, I'm João Pedro
 
-- 💻 Full-Stack Developer (Java/Angular)
-- ‍🎓 Degree in progress in Information Systems
+- 💻 Full-Stack Developer (Java/NodeJs/Angular)
+- ‍🎓 Degree in progress in Information Systems (7° Semester)
 - 🌎 Brazilian
 
 Full Stack developer. I currently study Information Systems at UNISUL University. My interest in technology began at a young age, always testing new things and learning a lot, which ended up leading to the choice to follow my passion for codes.
@@ -25,12 +25,12 @@ Full Stack developer. I currently study Information Systems at UNISUL University
 
 ### 🧠 Learned Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=spring,java,angular,ts,postgres,git,react,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,spring,java,angular,ts,postgres,git,js,html,css)](https://skillicons.dev)
     
 
 #
 
-### 📚 Still Studying
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+### 📚 Learning
+[![My Skills](https://skillicons.dev/icons?i=docker,react)](https://skillicons.dev)
 
 #
