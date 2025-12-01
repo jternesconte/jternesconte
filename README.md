@@ -20,14 +20,14 @@ Currently, I am in the octave semester of my Information Systems degree at UNISU
 
 <h3 align="center">🧠 Technologies</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,java,angular,ts,postgres,git,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,java,angular,ts,postgres,mongodb,git,linux,js,html,css" />
 </div>    
 
 #
 
 <h3 align="center">📚 Learning</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,react" />
+  <img src="https://skillicons.dev/icons?i=docker,redis" />
 </div>   
 
 #
