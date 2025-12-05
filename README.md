@@ -3,9 +3,7 @@
 - 💻 Full-Stack Developer (Java/NodeJs/Angular)
 - 🌎 Brazilian
 
-I am a Full Stack Developer with a strong focus on backend development, specializing in Java with Spring Boot and Node.js. On the frontend, I worked with AngularJS to build dynamic and efficient web applications. My expertise lies in designing and developing scalable REST APIs, ensuring high performance and reliability for modern web solutions.
-
-Currently, I am in the octave semester of my Information Systems degree at UNISUL University. My passion for technology started at a young age, constantly exploring new tools and deepening my knowledge of software development. This curiosity naturally led me to pursue a career in tech. Today, I focus on building robust and scalable applications, always seeking to optimize performance, security, and maintainability.
+I am a Full Stack Developer with a strong focus on backend development, specialized in Java with Spring Boot and Node.js. On the frontend, I have worked with AngularJS to build dynamic and efficient web applications. I am currently in the eighth semester of my Information Systems degree at UNISUL. My expertise lies in designing and developing scalable REST APIs, ensuring high performance and reliability for modern web solutions.
 
 #
 
