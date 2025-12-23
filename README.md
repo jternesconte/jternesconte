@@ -1,9 +1,15 @@
 # Hi, I'm João Pedro ![](https://komarev.com/ghpvc/?username=Jternesconte&abbreviated=true)
 
-- 💻 Full-Stack Developer (Java/NodeJs/Angular)
+- 💻 Back-End Developer (Java/NodeJs/Angular)
 - 🌎 Brazilian
 
-I am a Full Stack Developer with a strong focus on backend development, specialized in Java with Spring Boot and Node.js. On the frontend, I have worked with AngularJS to build dynamic and efficient web applications. I am currently in the eighth semester of my Information Systems degree at UNISUL. My expertise lies in designing and developing scalable REST APIs, ensuring high performance and reliability for modern web solutions.
+Back-end Developer and Information Systems graduate, specialized in the Java ecosystem and scalable architectures.
+
+I work mainly with Java (Spring Boot, Quarkus) and Node.js, designing and building high-performance REST APIs and distributed systems. I have experience optimizing ERP systems and developing complex integrations for large-scale e-commerce platforms.
+
+Passionate about clean code, performance tuning, and solving real-world business problems through robust software design.
+
+Tech stack: Java, Spring Boot, Quarkus, Node.js, PostgreSQL, Redis, Docker, Git, Linux.
 
 #
 
