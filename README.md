@@ -1,8 +1,8 @@
 # Hi, I'm João Pedro ![](https://komarev.com/ghpvc/?username=Jternesconte&abbreviated=true)
 
-- 💻 Back-End Developer (Java/NodeJs/Angular)
-- 🌎 Brazilian
+- 💻 Back-End Developer (Java/NodeJs)
 - 🎓 Information Systems graduate
+- 🌎 Brazilian
 
 Back-end Developer and Information Systems graduate, specialized in the Java ecosystem and scalable architectures.
 
