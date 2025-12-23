@@ -2,6 +2,7 @@
 
 - 💻 Back-End Developer (Java/NodeJs/Angular)
 - 🌎 Brazilian
+- 🎓 Information Systems graduate
 
 Back-end Developer and Information Systems graduate, specialized in the Java ecosystem and scalable architectures.
 
