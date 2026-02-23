@@ -11,14 +11,6 @@ I work mainly with Java (Spring Boot, Quarkus) and Node.js, designing and buildi
 Passionate about clean code, performance tuning, and solving real-world business problems through robust software design.
 
 Tech stack: Java, Spring Boot, Quarkus, Node.js, PostgreSQL, Redis, Docker, Git, Linux.
-
-#
-
-<div align="center">
-  <a href="https://github.com/jternesconte">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jternesconte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jternesconte&layout=compact&langs_count=7&theme=dracula"/>
-</div>
     
 #
 
